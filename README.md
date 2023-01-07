@@ -7,7 +7,7 @@ Technology used
 3. js
 
 ## Purpose
-Random Password Generator that accepts 
+Random Password Generator that generates based on requirements provided by the user. 
 
 ## Challenges 
 Through this project I started over about 3 or 4 times as I continued to hit the same wall and tried to give myself new baselines to work with before hitting the wall.
